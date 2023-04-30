@@ -1,0 +1,2 @@
+un archivo txt, con un texto cualquiera, haga su primer commit y
+verifique que NO esté en el repositorio remoto
